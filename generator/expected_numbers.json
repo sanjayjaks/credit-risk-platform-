@@ -1,0 +1,27 @@
+{
+  "customers": 40,
+  "applications": 60,
+  "app_status": {
+    "APPROVED": 37,
+    "REJECTED": 16,
+    "PENDING": 4,
+    "UNDER_REVIEW": 3
+  },
+  "loans": 37,
+  "loan_status": {
+    "ACTIVE": 33,
+    "CLOSED": 1,
+    "DEFAULTED": 3
+  },
+  "payments": 431,
+  "pay_status": {
+    "ON_TIME": 339,
+    "LATE": 53,
+    "MISSED": 39
+  },
+  "total_disbursed": 39800000,
+  "outstanding": 33932849.82,
+  "collected": 9779911.87,
+  "high_risk_customers": 12,
+  "approval_rate_pct": 69.81
+}

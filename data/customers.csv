@@ -1,0 +1,12 @@
+source_customer_id,first_name,last_name,date_of_birth,gender,email,phone,city,state,annual_income,employment_status,credit_score,source_created_at
+CRM-1041,Farhan,Qureshi,1991-04-12,M,farhan.qureshi@example.com,9812345601,Jaipur,Rajasthan,900000,SALARIED,781,2026-08-28 10:15:00
+CRM-1042,Ritika,Sood,1994-09-30,F,ritika.sood@example.com,9812345602,Mumbai,Maharashtra,1400000,SALARIED,712,2026-08-29 11:00:00
+CRM-1043,Gaurav,Pillai,1986-01-17,M,gaurav.pillai@example.com,9812345603,Bengaluru,Karnataka,3200000,BUSINESS_OWNER,745,2026-08-01 09:30:00
+CRM-1044,Jasleen,Kaur,1998-06-05,F,jasleen.kaur@example.com,9812345604,New Delhi,Delhi,650000,SALARIED,668,2026-09-02 16:45:00
+CRM-1005,Kabir,Gupta,1975-11-14,M,kabir.gupta1005@example.com,9739830322,Mumbai,Maharashtra,2900000,SALARIED,690,2026-09-05 12:00:00
+CRM-1045,Ayesha,Khan,1990-03-03,F,ayesha.khan@example.com,9812345605,Pune,Maharashtra,800000,SALARIED,950,2026-09-03 10:00:00
+CRM-1046,Mohit,Arora,1989-12-12,M,,9812345606,Jaipur,Rajasthan,700000,SALARIED,701,2026-09-03 10:05:00
+CRM-1047,Preeti,Bose,1993-07-21,F,preeti.bose@example.com,9812345607,Mumbai,Maharashtra,abc,SALARIED,720,2026-09-03 10:10:00
+CRM-1041,Farhan,Qureshi,1991-04-12,M,farhan.q@example.com,9812345601,Jaipur,Rajasthan,900000,SALARIED,781,2026-09-04 10:15:00
+CRM-1048,Sahil,Mittal,1990-02-31,M,sahil.mittal@example.com,9812345608,Gurugram,Haryana,1100000,SALARIED,733,2026-09-04 11:00:00
+CRM-1049,Ankit,Rana,1992-08-08,M,aarav.agarwal1001@example.com,9812345609,Udaipur,Rajasthan,600000,SALARIED,700,2026-09-04 12:00:00
